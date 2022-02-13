@@ -9,15 +9,17 @@ packages :
 - json (paste 'pip3 install json' in cmd and run)
 - colorama (paste 'pip3 install colorama' in cmd and run)
 
-Download the zip file
+How to Setup Code:
 
-then type 'cd' + (directory of file code is in)
-then type ls 
-then type 'python3 bot.py'
-hit enter
+- Download the zip file
 
-First input: crytpo LONG name (not eth or btc) ex: bitcoin, ethereum, cardano etc...
-Second input: date (dd-mm-yy)
-Third input: currency ex: eur, usd, usdt etc...
+- then type 'cd' + (directory of file code is in)
+- then type ls 
+- then type 'python3 bot.py'
+- hit enter
+
+- First input: crytpo LONG name (not eth or btc) ex: bitcoin, ethereum, cardano etc...
+- Second input: date (dd-mm-yy)
+- Third input: currency ex: eur, usd, usdt etc...
 
 You will get the MarketCap and Price for that specific date !
