@@ -14,8 +14,7 @@ How to Setup Code:
 - Download the zip file
 
 - then type 'cd' + (directory of file code is in)
-- then type ls 
-- then type 'python3 bot.py'
+- then type 'python3 main.py'
 - hit enter
 
 - First input: crytpo LONG name (not eth or btc) ex: bitcoin, ethereum, cardano etc...
@@ -23,3 +22,4 @@ How to Setup Code:
 - Third input: currency ex: eur, usd, usdt etc...
 
 You will get the MarketCap and Price for that specific date !
+
