@@ -1,8 +1,6 @@
 import requests
 import json
 
-
-
 with open('crypto.txt') as f:
     mylist = f.read().splitlines()
 date = '01-01_2021'
